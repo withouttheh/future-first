@@ -1,0 +1,88 @@
+    /* PRICING TABLE */
+    
+    .pricing-table-wrapper table {
+        margin: auto;
+        width: 100%;
+        padding: 1em 2em;
+        font-size: 0.6em;
+    }
+    
+    .pricing-table-wrapper>table>tbody>tr:nth-child(1)>th:nth-child(2) {
+        background-color: grey;
+        color: white;
+    }
+    
+    .pricing-table-wrapper>table>tbody>tr:nth-child(2) {
+        background-color: #630418;
+        color: white;
+    }
+    
+    .pricing-table-wrapper>table>tbody>tr:nth-child(3) {
+        background-color: rgb(224, 224, 224);
+    }
+    
+    .pricing-table-wrapper>table>tbody>tr:nth-child(5) {
+        background-color: rgb(224, 224, 224);
+    }
+    
+    .pricing-table-wrapper>table>tbody>tr:nth-child(7) {
+        background-color: rgb(224, 224, 224);
+    }
+    /* FINANCIAL PLANNING TABLES */
+    
+    .tables-wrapper {
+        /* height: 90vh; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 2em 0;
+    }
+    
+    .tables-wrapper table {
+        width: 70%;
+        height: 100%;
+        margin: 1em 0;
+        padding: 0;
+        font-size: 0.6em;
+        border: 1px solid #630418;
+    }
+    
+    .tables-wrapper>table>tbody>tr>td {
+        padding: 1em 0;
+    }
+    
+    .tables-wrapper>table>tbody>tr:nth-child(1) {
+        background-color: #630418;
+        color: white;
+    }
+    
+    .tables-wrapper>table>tbody>tr:nth-child(3) {
+        background-color: rgb(224, 224, 224);
+    }
+    
+    body>div>section>div>div>table>tbody>tr:nth-child(3)>td>ul {
+        padding-left: 1.5em;
+        /* list-style: ; */
+    }
+    /* Desktop Styles */
+    
+    @media (min-width:500px) {
+        .pricing-table-wrapper {
+            width: 90%;
+            margin: auto;
+        }
+        .pricing-table-wrapper table {
+            font-size: 1em;
+        }
+        .tables-wrapper {
+            flex-direction: row;
+            align-items: flex-start;
+            justify-content: space-around;
+        }
+        .tables-wrapper table {
+            font-size: 1em;
+            width: 40%;
+            height: 50vh;
+        }
+    }

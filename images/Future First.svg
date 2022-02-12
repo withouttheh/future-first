@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Future First.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       end_linecap_type="zerowidth"
+       scale_width="1"
+       miter_limit="4"
+       linejoin_type="extrp_arc"
+       start_linecap_type="zerowidth"
+       interpolator_beta="0.2"
+       interpolator_type="CubicBezierJohan"
+       sort_points="true"
+       offset_points="0,0.322596"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect41"
+       effect="powerstroke" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="422.41933"
+     inkscape:cx="332.92261"
+     inkscape:zoom="3.2796268"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid159"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="rotate(30.151906,79.38417,119.9564)"
+       id="text12"
+       y="118.68452"
+       x="72.571426"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';white-space:pre;inline-size:38.0663;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         x="72.571426"
+         y="118.68452"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583">F</tspan></tspan></text>
+    <rect
+       transform="matrix(0.922781,-0.38532482,0.38269938,0.92387292,0,0)"
+       y="139.97748"
+       x="24.866676"
+       height="2.3736918"
+       width="21.664059"
+       id="rect43"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.854894;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0" />
+    <text
+       id="text141"
+       y="105.8674"
+       x="51.653046"
+       style="font-size:10.5833px;line-height:1.25;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583;-inkscape-font-specification:'BankGothic Md BT';font-family:'BankGothic Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="105.8674"
+         x="51.653046"
+         id="tspan139"
+         sodipodi:role="line" /></text>
+    <text
+       transform="scale(1.0489834,0.95330392)"
+       id="text145"
+       y="130.24435"
+       x="63.200893"
+       style="font-size:5.92092px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';stroke-width:0.277543"
+       xml:space="preserve"><tspan
+         style="font-size:5.92092px;stroke-width:0.277543"
+         y="130.24435"
+         x="63.200893"
+         id="tspan143"
+         sodipodi:role="line"><tspan
+   id="tspan147"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.92092px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.277543">future first</tspan> </tspan></text>
+  </g>
+</svg>
