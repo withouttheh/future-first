@@ -37,8 +37,15 @@
         top: 0;
     }
     
+    .header-logo {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        /* margin: auto; */
+    }
+    
     .header-logo img {
-        height: 4em;
+        height: auto;
         width: 4em;
     }
     
@@ -163,7 +170,7 @@
     
     .main-wrapper>a>button:hover {
         background-color: white;
-        color: #2d7a74
+        color: #2d7a74;
     }
     
     .main-wrapper.about {
@@ -257,8 +264,16 @@
         margin-top: 0em;
     }
     
+    .contact-info-logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+    
     .contact-info-logo>img {
-        width: 100%;
+        width: 80%;
+        height: 80%;
     }
     
     .pricing-wrapper {

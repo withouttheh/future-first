@@ -7,55 +7,55 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Future First (resize).svg"
-   id="svg8"
+   width="1015.9988mm"
+   height="436.85727mm"
+   viewBox="0 0 1015.9988 436.85725"
    version="1.1"
-   viewBox="0 0 97.498039 42.333332"
-   height="42.333332mm"
-   width="97.498039mm">
+   id="svg8"
+   sodipodi:docname="Future First (resize).svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs2">
     <inkscape:path-effect
-       end_linecap_type="zerowidth"
-       scale_width="1"
-       miter_limit="4"
-       linejoin_type="extrp_arc"
-       start_linecap_type="zerowidth"
-       interpolator_beta="0.2"
-       interpolator_type="CubicBezierJohan"
-       sort_points="true"
-       offset_points="0,0.322596"
-       lpeversion="1"
-       is_visible="true"
+       effect="powerstroke"
        id="path-effect41"
-       effect="powerstroke" />
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.322596"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
   </defs>
   <sodipodi:namedview
-     showguides="false"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="705"
-     inkscape:window-width="1366"
-     showgrid="true"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="92.12937"
-     inkscape:cx="187.21338"
-     inkscape:zoom="2.6687159"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.11196396"
+     inkscape:cx="868.86213"
+     inkscape:cy="92.129486"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
+     showguides="false">
     <inkscape:grid
-       originy="-211.56295"
-       originx="-133.76399"
+       type="xygrid"
        id="grid159"
-       type="xygrid" />
+       originx="-133.76398"
+       originy="-211.56289" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -65,57 +65,65 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-66.881996,-105.78148)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-66.881979,-105.78145)">
     <text
-       transform="matrix(1.991488,1.1568369,-1.1568369,1.991488,80.734748,-191.88709)"
-       id="text12"
-       y="118.68452"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';white-space:pre;inline-size:38.0663;fill:#2d7a74;fill-opacity:1;stroke-width:0.264583"
        x="72.571426"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';white-space:pre;inline-size:38.0663;stroke-width:0.264583"
-       xml:space="preserve"><tspan
+       y="118.68452"
+       id="text12"
+       transform="matrix(20.75274,12.055074,-12.055074,20.75274,211.23767,-3000.4261)"><tspan
          x="72.571426"
          y="118.68452"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583">F</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';fill:#2d7a74;fill-opacity:1;stroke-width:0.264583">F</tspan></tspan></text>
     <rect
-       transform="matrix(0.922781,-0.38532482,0.38269938,0.92387293,0,0)"
-       y="163.66725"
-       x="33.394539"
-       height="5.4668632"
-       width="49.894615"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.96891;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
        id="rect43"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.96891;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0" />
+       width="49.894615"
+       height="5.4668632"
+       x="33.394539"
+       y="163.66725"
+       transform="matrix(0.922781,-0.38532482,0.38269938,0.92387293,0,0)" />
     <text
-       id="text141"
-       y="105.8674"
-       x="51.653046"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583"
-         y="105.8674"
-         x="51.653046"
+       x="51.653046"
+       y="105.8674"
+       id="text141"><tspan
+         sodipodi:role="line"
          id="tspan139"
-         sodipodi:role="line" /></text>
+         x="51.653046"
+         y="105.8674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.264583" /></text>
     <text
-       transform="scale(1.0489834,0.95330393)"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-size:142.102px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';stroke-width:6.66105"
+       x="50.367405"
+       y="569.21899"
        id="text145"
-       y="155.36998"
-       x="62.473789"
-       style="font-size:13.6365px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';stroke-width:0.639211"
-       xml:space="preserve"><tspan
-         style="font-size:13.6365px;stroke-width:0.639211"
-         y="155.36998"
-         x="62.473789"
+       transform="scale(1.0489834,0.95330393)"><tspan
+         sodipodi:role="line"
          id="tspan143"
-         sodipodi:role="line"><tspan
-   id="tspan147"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6365px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:0.639211">future first</tspan> </tspan></text>
+         x="50.367405"
+         y="569.21899"
+         style="font-size:142.102px;stroke-width:6.66105"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.102px;font-family:'BankGothic Md BT';-inkscape-font-specification:'BankGothic Md BT';stroke-width:6.66105"
+   id="tspan147"><tspan
+   id="tspan843"
+   style="fill:#2d7a74;fill-opacity:1;stroke-width:6.66105">f</tspan>uture <tspan
+   id="tspan849"
+   style="fill:#2d7a74;fill-opacity:1;stroke-width:6.66105">f</tspan>irst</tspan> </tspan></text>
   </g>
 </svg>

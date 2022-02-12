@@ -12,6 +12,10 @@
         display: flex;
         justify-content: space-between;
     }
+    .header-logo img {
+        height: auto;
+        width: 6em;
+    }
     nav {
         display: flex;
         justify-content: space-between;
@@ -94,7 +98,7 @@
     }
     .contact-info-logo {
         height: auto;
-        width: 50vw;
+        width: 50%;
         margin: 2em auto;
     }
     .workplace-retirement-wrapper {
